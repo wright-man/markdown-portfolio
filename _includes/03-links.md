@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Social media](https://www.linkedin.com/in/a-g-wright/)
